@@ -73,3 +73,5 @@ WeatherApp — это современное Android-приложение для
 
 Путь к готовому файлу:
 `app/build/outputs/bundle/release/app-release.aab`
+
+Разработчик: Жолманов Еркебулан (QIOPORKOP) © 2026. Все права защищены.
